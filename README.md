@@ -1,8 +1,6 @@
 # 🌱 Avré Barra - A Raccoon
 
-Also a web backend engineer! Based in Yogyakarta, Indonesia.
-
-Got passions for backend system & architectures, and this sweet things about service orchestration. I work at 📮LinkAja one of biggest new Fintech companies in Indonesia.
+Also a web backend engineer! Based in Yogyakarta, Indonesia. Work at 📮LinkAja.id, one big Fintech co of Indonesia.
 
 Previously also worked at unicorn startup 🦄Bukalapak.com at its fastest-growing pace period: **Hundreds of mates, >5mil requests/day, and >50 microservices orchestrated.** I work well as a team as well as on my own 🐐
 
