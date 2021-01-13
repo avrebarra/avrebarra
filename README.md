@@ -1,6 +1,4 @@
-🌱 currently learning
-
-# Avré Barra - A Raccoon
+# 🌱 Avré Barra - A Raccoon
 
 Also a web backend engineer! Based in Yogyakarta, Indonesia.
 
