@@ -1,10 +1,10 @@
-# avrébarra (id) / software engineer
+# avrébarra (id)
 
-A senior software engineer! Based in Yogyakarta & Surabaya, Indonesia. Working at 📮LinkAja.id, Fintech corp in Indonesia.
+A senior software engineer based in Yogyakarta & Surabaya, Indonesia. Working at 📮LinkAja.id, Fintech corp in Indonesia.
 
 Previously also worked at unicorn online marketplace startup 🦄Bukalapak.com at its fastest-growing pace period. I work well as a team as well as on my own.
 
-Proficiencies? Golang, Ruby, NodeJS, TypeScripts are some of my main developer proficiencies.
+Proficiencies? Golang, Ruby, NodeJS, TypeScripts are some of my main experiences.
 
 ...
 
