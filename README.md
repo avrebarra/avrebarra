@@ -1,8 +1,8 @@
 # Halo!
 
-Hi, I'm Avre. A senior software engineer (4+ YOE) based in Indonesia.
+Hi, I'm Avre Barra. A senior software engineer (5+ YOE) based in Indonesia.
 
-Currently working at LinkAja.id, a fintech company in Indonesia. My niches are Go, Ruby, NodeJS, TypeScript, and some others.
+My niches are Go, Ruby, NodeJS, TypeScript, and some others.
 
 --
 
